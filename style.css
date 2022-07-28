@@ -1,0 +1,8 @@
+#relogio {
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
